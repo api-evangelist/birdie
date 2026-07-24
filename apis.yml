@@ -1,8 +1,15 @@
 aid: birdie
 name: Birdie
-description: 'Birdie is a company surfaced as a portfolio company of index-ventures and added to the API
-  Evangelist network as a stub for enrichment. Sector: healthcare. This profile is a lead awaiting the
-  enrichment pipeline.'
+description: 'Birdie is a UK homecare technology platform that gives domiciliary
+  care agencies a single unified system for care management, rostering and scheduling,
+  finance and invoicing, quality and compliance, medication management and clinically-validated
+  assessments, backed by dedicated apps for carers and families. Over 1,000 homecare
+  providers use Birdie to save time, reduce mistakes and evidence care quality, with
+  a Q-Score that predicts CQC ratings in real time. Birdie is UK-hosted and holds
+  ISO 27001, Cyber Essentials Plus and NHS Data Security and Protection Toolkit
+  assurances. It is backed by Index Ventures. Birdie does not currently publish a
+  public developer API or OpenAPI specification; this profile captures its identity,
+  domain security and compliance posture.'
 url: https://raw.githubusercontent.com/api-evangelist/birdie/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +17,30 @@ x-backed-by:
 - index-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
+image: https://cdn.prod.website-files.com/5d80c03f1edd7bd68fcdb623/633ead0f172e7255f4ce0395_logo-white.svg
 tags:
 - Company
 - Healthcare
+- Home Care
+- Domiciliary Care
+- Care Management
+- Rostering
+- Social Care
+- Health Tech
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,4 +49,33 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://www.birdie.care
+  url: https://www.birdie.care
+- type: Pricing
+  url: https://www.birdie.care/pricing
+- type: Blog
+  url: https://www.birdie.care/blog
+- type: Support
+  url: https://www.birdie.care/support
+- type: GitHubOrganization
+  url: https://github.com/birdiecare
+- type: SignUp
+  url: https://www.birdie.care/book-a-demo
+- type: Login
+  url: https://admin.birdie.care/
+- type: TermsOfService
+  url: https://www.birdie.care/terms/terms-and-conditions
+- type: PrivacyPolicy
+  url: https://www.birdie.care/terms/privacy-notice
+- type: Compliance
+  url: https://www.birdie.care/security
+- type: TrustCenter
+  url: security/birdie-trust-center.yml
+- type: DomainSecurity
+  url: security/birdie-domain-security.yml
+- type: LLMsTxt
+  url: llms/birdie-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

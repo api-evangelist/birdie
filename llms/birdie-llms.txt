@@ -1,0 +1,30 @@
+# Birdie
+
+> Birdie is a UK homecare technology platform that unifies care management, rostering, scheduling, finance and invoicing, quality and compliance, medication and clinically-validated assessments into one system, with dedicated apps for carers and families. Over 1,000 homecare providers use Birdie. Birdie does not publish a public developer API or OpenAPI specification; integration is handled through raw-data access for business-intelligence tooling and partner arrangements.
+
+## Company
+- [Birdie](https://www.birdie.care/): The smart homecare technology partner.
+- [About Birdie](https://www.birdie.care/about-us): Company background and mission.
+- [Care management](https://www.birdie.care/care-management): Core care-management product.
+- [For IT leaders](https://www.birdie.care/for-team/it-leaders): Data access and integration positioning.
+
+## Docs
+- [Pricing](https://www.birdie.care/pricing): Plans priced on scheduled care hours / active care recipients.
+- [Support center](https://www.birdie.care/support): Help and support resources.
+- [Blog](https://www.birdie.care/blog): Homecare technology and sector articles.
+- [Flock community](https://www.birdie.care/communities/flock): Birdie customer community.
+
+## Security & Compliance
+- [Security](https://www.birdie.care/security): ISO 27001, Cyber Essentials Plus, NHS DSPT, UK GDPR.
+- [Trust center](https://trust.birdie.care): Certifications and security posture.
+
+## Developer
+- [Birdie on GitHub](https://github.com/birdiecare): Open-source data-engineering and tooling repositories (no public API spec).
+
+## Legal
+- [Terms & conditions](https://www.birdie.care/terms/terms-and-conditions)
+- [Privacy notice](https://www.birdie.care/terms/privacy-notice)
+
+## Account
+- [Login](https://admin.birdie.care/): Birdie admin console.
+- [Book a demo](https://www.birdie.care/book-a-demo): Sales-led onboarding.

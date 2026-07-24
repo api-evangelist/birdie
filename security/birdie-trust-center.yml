@@ -1,0 +1,28 @@
+generated: '2026-07-18'
+method: searched
+probe: true
+source: https://www.birdie.care/security
+url: https://www.birdie.care/security
+trust_center: https://trust.birdie.care
+certifications:
+- ISO 27001
+- Cyber Essentials Plus
+- NHS Data Security and Protection Toolkit (DSPT)
+- UK GDPR
+security_practices:
+- Annual penetration testing
+- Continuous security monitoring and threat detection
+- 24/7 incident response
+- UK data hosting
+data_hosting_region: United Kingdom
+contact: support@birdie.care
+evidence:
+- source: https://www.birdie.care/security
+  keywords:
+  - iso 27001
+  - cyber essentials plus
+  - nhs data security and protection toolkit
+  - uk gdpr
+- source: https://trust.birdie.care
+  keywords:
+  - trust center
